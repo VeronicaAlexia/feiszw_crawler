@@ -1,0 +1,10 @@
+{
+  "name": "csss",
+  "version": "1.0.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "iconv-lite": "^0.6.3",
+    "node-fetch": "^3.2.4",
+    "request": "^2.88.2"
+  }
+}
